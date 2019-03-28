@@ -21,9 +21,9 @@
 }
 
 /*homepage meet reba section css*/
-#meetRebaBtn {
+/*#meetRebaBtn {
   justify-content: left;
-}
+}*/
 
 #one img {
   max-width: 300px;
@@ -294,4 +294,13 @@
 @media screen and (max-height: 450px) {
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
+}
+
+@media only screen and (min-width: 981px) {
+
+/*homepage meet reba section css*/
+
+#meetRebaBtn {
+    justify-content: left;
+  }
 }
