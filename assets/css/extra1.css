@@ -1,0 +1,297 @@
+/*main color: 91c43d
+  breakpiont 1: 980px
+*/
+
+
+/*//////////homepage/////////////*/
+
+/*header css*/
+#header .logo {
+  max-width: 500px;
+}
+@media only screen and (max-width: 580px) {
+    #header .logo {
+        max-width: 300px;
+    }
+}
+
+/*homepage philosophy section css*/
+#two .major h3 {
+  color: #91c43d;
+}
+
+/*homepage meet reba section css*/
+#meetRebaBtn {
+  justify-content: left;
+}
+
+#one img {
+  max-width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+/*///////////////////////// About Reba Page ////////////////////////*/
+
+#oneAboutReba img {
+  display: block;
+  margin: 0 auto;
+}
+
+#oneAboutReba span {
+  font-size: 20px;
+  padding-left: 5px;
+}
+
+#oneAboutReba:nth-child(3) {
+  text-align: center;
+}
+
+.aboutRebaList2 {
+  display: flex;
+  justify-content: center;
+}
+
+@media screen and (max-width: 980px) {
+  .aboutRebaList2 {
+    justify-content: flex-start;
+  }
+}
+/*///////////////////////// Services Page ////////////////////////*/
+
+
+.servicePageImg {
+  display: flex;
+  align-items: center;
+}
+
+/*///////////////////////// FAQ Page ////////////////////////*/
+
+.accordion {
+  margin: 10px 0px;
+}
+
+.accordion-item-title {
+  min-width: 100%;
+  min-height: 50px;
+  border: solid 2px #91c43d;
+  box-shadow: 3px 3px 5px #000;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.hide {
+  display: none;
+}
+
+.accordion-item-text p {
+  margin: 0px 0 10px 5px;
+}
+
+.accordion-item-title h3 {
+  padding: 0;
+  margin: 0 0 0 5px;
+}
+
+/*///////////////////////// all pages besides homepage ////////////////////////*/
+#contentPage h1 {
+  color: #fff;
+  font-size: 2.75em;
+}
+
+.heroIcon {
+  display: block;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 480px) {
+  #contentPage h1 {
+    padding-top: 50px;
+    font-size: 2.5em;
+  }
+  .heroIcon {
+    margin-bottom: 15px;
+  }
+}
+
+#contentPage  h2 {
+  color: #91c43d;
+}
+
+.main.styleContentPage {
+  background-color: #333;
+  color: rgba(255, 255, 255, 0.75);
+  background-attachment: fixed,							fixed;
+  background-image: url("images/overlay1.png"), url("../../images/ourCompHero.jpeg");
+  background-size: cover,							cover;
+  background-position: 70% 70%;
+}
+
+
+  .main.styleContentPage a {
+    border-bottom-color: rgba(255, 255, 255, 0.5);
+  }
+
+    .main.styleContentPage a:hover {
+      color: #ffffff;
+    }
+
+  .main.styleContentPage h1, .main.styleContentPage h2, .main.styleContentPage h3, .main.styleContentPage h4, .main.styleContentPage h5, .main.styleContentPage h6, .main.styleContentPage strong, .main.styleContentPage b {
+    color: #ffffff;
+  }
+
+  .main.styleContentPage header p {
+    color: #ffffff;
+  }
+
+  .main.styleContentPage header.major:after {
+    background: #ffffff;
+  }
+
+  .main.styleContentPage input[type="submit"],
+  .main.styleContentPage input[type="reset"],
+  .main.styleContentPage input[type="button"],
+  .main.styleContentPage button,
+  .main.styleContentPage .button {
+    box-shadow: inset 0 0 0 1px #ffffff;
+    color: #ffffff !important;
+  }
+
+    .main.styleContentPage input[type="submit"]:hover,
+    .main.styleContentPage input[type="reset"]:hover,
+    .main.styleContentPage input[type="button"]:hover,
+    .main.styleContentPage button:hover,
+    .main.styleContentPage .button:hover {
+      background-color: rgba(255, 255, 255, 0.125);
+    }
+
+    .main.styleContentPage input[type="submit"]:active,
+    .main.styleContentPage input[type="reset"]:active,
+    .main.styleContentPage input[type="button"]:active,
+    .main.styleContentPage button:active,
+    .main.styleContentPage .button:active {
+      background-color: rgba(255, 255, 255, 0.25);
+    }
+
+    .main.styleContentPage input[type="submit"].primary,
+    .main.styleContentPage input[type="reset"].primary,
+    .main.styleContentPage input[type="button"].primary,
+    .main.styleContentPage button.primary,
+    .main.styleContentPage .button.primary {
+      background-color: #ffffff;
+      box-shadow: inset 0 0 0 1px #ffffff !important;
+      color: #333 !important;
+    }
+
+      .main.styleContentPage input[type="submit"].primary:hover,
+      .main.styleContentPage input[type="reset"].primary:hover,
+      .main.styleContentPage input[type="button"].primary:hover,
+      .main.styleContentPage button.primary:hover,
+      .main.styleContentPage .button.primary:hover {
+        background-color: rgba(255, 255, 255, 0.125) !important;
+        color: #ffffff !important;
+      }
+
+      .main.styleContentPage input[type="submit"].primary:active,
+      .main.styleContentPage input[type="reset"].primary:active,
+      .main.styleContentPage input[type="button"].primary:active,
+      .main.styleContentPage button.primary:active,
+      .main.styleContentPage .button.primary:active {
+        background-color: rgba(255, 255, 255, 0.25) !important;
+      }
+
+  .main.styleContentPage ul.major-icons li .icon {
+    border-color: #ffffff;
+  }
+
+  .main.styleContentPage .icon.major {
+    color: #ffffff;
+  }
+
+/*//////////////Footer///////////////*/
+/*footer css*/
+
+#footer {
+  color: #000;
+}
+
+#override #footer .major h2 {
+  color: #91c43d;
+}
+
+/*//////////////sidenav css///////////////*/
+.menuBtn {
+  position: fixed;
+  top: 25px;
+  left: 25px;
+  font-size: 36px;
+  color: #91c43d;
+  z-index: 8;
+  transition: .7s;
+}
+
+.menuBtn:hover {
+  transform: scale(1.2);
+  color: #91c43d;
+}
+
+.active {
+  background-color: green;
+  color: white;
+}
+
+/* Dropdown container */
+.dropdown-container {
+  display: none;
+  background-color: #262626;
+  padding-left: 8px;
+}
+
+/* caret down icon */
+.fa-caret-down {
+  float: right;
+  padding-right: 8px;
+}
+
+/* The side navigation menu */
+.sidenav {
+    height: 100%; /* 100% Full-height */
+    width: 0; /* 0 width - change this with JavaScript */
+    position: fixed; /* Stay in place */
+    z-index: 10; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    background-color: #111; /* Black*/
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 60px; /* Place content 60px from the top */
+    transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+}
+
+/* The navigation menu links */
+.sidenav a, .dropdown-btn  {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover {
+    color: #91c43d;
+}
+
+/* Position and style the close button (top right corner) */
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+}
