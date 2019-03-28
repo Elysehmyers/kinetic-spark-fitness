@@ -117,6 +117,13 @@
 
 #contentPage  h2 {
   color: #91c43d;
+  margin-bottom: 0;
+}
+
+#contentPage h3 {
+  color: #91c43d;
+  font-style: italic;
+
 }
 
 .main.styleContentPage {

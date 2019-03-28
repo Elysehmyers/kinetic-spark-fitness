@@ -1,7 +1,7 @@
 	<!-- Sidenav -->
 		<div id="mySidenav" class="sidenav">
 		  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-			<a href="index.html">Home</a>
+			<a href="index.php">Home</a>
 			<a class="dropdown-btn">About
 			 <i class="fa fa-caret-down"></i>
 		 	</a>

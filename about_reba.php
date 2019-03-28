@@ -42,13 +42,14 @@
 						<div class="row gtr-150">
 							<div class="col-6 col-12-medium">
 								<header class="">
-									<h2>Reba Wek-Lake<span><i>(CSCS, MES, CES, PES, HKC, FAS)</i></span></h2>
+									<h2>Reba Wek-Lake</h2>
+									<h3>CSCS, MES, CES, PES, HKC, FAS, Member CETI</h3>
 								</header>
 								<p>
 									Reba is a medical exercise specialist and a strength and conditioning coach certified through the National Strength and Conditioning Association. She is a certified corrective exercise specialist (CES), sports performance enhancement specialist (PES), and a Precision Nutrition coach.
 								</p>
 								<p>
-									She is also certified to train hardcore Russian kettlebell technique, and she is certified in Sports Medicine suspension training on the TRX (Level 2). Reba has a passion for healthy eating, having focused her undergraduate and graduate studies in clinical nutrition. She has five adult children and enjoys hiking and tennis.
+									She is also certified to train hardcore Russian kettlebell technique, and she is certified in Sports Medicine suspension training on the TRX (Level 2). Reba has a passion for healthy eating, having focused her undergraduate and graduate studies in clinical nutrition. She has five adult children, four grand-children, and enjoys hiking and tennis.
 								</p>
 							</div>
 							<div class="col-6 col-12-medium">

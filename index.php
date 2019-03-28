@@ -27,8 +27,8 @@
 					<h1>Personal Training Programs with Reba Wek-Lake</h1>
 					<p>Fitness is not a one-size-fits-all journey. At Kinetic Spark Fitness, fitness specialist Reba Wek-Lake <br />
 						 can customize a personal training program that will help	you feel strong in your own body. <br />
-						  Whether you’re a parent, a teenager, child, senior,	or someone fresh from rehabilitation, <br />
-							 Reba can help you reach your fitness goals, one session at a time.</p>
+						  Whether you are a parent, a senior, fresh from orthopedic rehab, experiencing a cancer diagnoses, or have a medical condition, <br/>
+							 Reba can help you reach your fitness goals &ndash; One session at a time.</p>
 					<ul class="actions special">
 						<li><a href="#three" class="button scrolly">Find Your Plan</a></li>
 					</ul>
@@ -50,7 +50,7 @@
 								<h3>Private</h3>
 								<p>Reba can walk you through one-on-one personal training designed around your individual needs and goals.</p>
 								<ul class="actions special">
-									<li><a href="services_and_rates.html#ppt" class="button">More</a></li>
+									<li><a href="services_and_rates.php#ppt" class="button" target="_BLANK">More</a></li>
 								</ul>
 							</div>
 							<div class="col-4 col-12-medium">
@@ -58,7 +58,7 @@
 								<h3>Semi-Private</h3>
 								<p>Prefer working out with a best friend or partner? Our semi-private personal training sessions are for you.</p>
 								<ul class="actions special">
-									<li><a href="services_and_rates.html#sppt" class="button">More</a></li>
+									<li><a href="services_and_rates.php#sppt" class="button" target="_BLANK">More</a></li>
 								</ul>
 							</div>
 							<div class="col-4 col-12-medium">
@@ -66,7 +66,7 @@
 								<h3>FitLife Group</h3>
 								<p>In FitLife group training, you can enjoy the energy of exercising in a group of three to four members.</p>
 								<ul class="actions special">
-									<li><a href="services_and_rates.html#flgt" class="button">More</a></li>
+									<li><a href="services_and_rates.php#flgt" class="button" target="_BLANK">More</a></li>
 								</ul>
 							</div>
 						</div>
@@ -117,10 +117,10 @@
 								<header class="major">
 									<h2>Meet Your Personal Trainer</h2>
 								</header>
-								<p><strong>Reba Wek-Lake, CSCS, MES, CES, PES, HKC, NEW</strong></p>
+								<p><strong>Reba Wek-Lake <em>SCS, MES, CES, PES, HKC, FAS, Member CETI</em></strong></p>
 								<p>Reba is a medical exercise specialist and a strength and conditioning coach who’s here to help you on your fitness journey. Read more about her story and her certifications here.</p>
 								<ul id="meetRebaBtn" class="actions special">
-									<li><a href="about_reba.html" class="button">Meet Reba</a></li>
+									<li><a href="about_reba.php" class="button">Meet Reba</a></li>
 								</ul>
 							</div>
 							<div class="col-6 col-12-medium imp-medium">
