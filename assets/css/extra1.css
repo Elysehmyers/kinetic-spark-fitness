@@ -87,11 +87,13 @@
 
 .accordion-item-text p {
   margin: 0px 0 10px 5px;
+  padding: 0 15px 20px;
 }
 
 .accordion-item-title h3 {
   padding: 0;
   margin: 0 0 0 5px;
+  padding: 0 15px;
 }
 
 /*///////////////////////// all pages besides homepage ////////////////////////*/

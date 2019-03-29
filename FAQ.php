@@ -43,6 +43,28 @@
 							<div class="col-12">
 								<div class="accordion">
 									<div class="accordion-item-title">
+										<h3>What is a Functional Aging Specialist?</h3>
+										<hr />
+										<div class="accordion-item-text hide">
+											<p>
+												A functional aging specialist is equipped to come alongside individuals who are feeling challenged to gain and maintain their fitness as their bodies change with age. There are many ways these adults can minimize the difficulty of these changes through exercise and special movements!
+											</p>
+										</div>
+									</div>
+								</div>
+								<div class="accordion">
+									<div class="accordion-item-title">
+										<h3>What is a Cancer Exercise Training Specialist?</h3>
+										<hr />
+										<div class="accordion-item-text hide">
+											<p>
+												A cancer exercise specialist is uniquely qualified to work with cancer patients from diagnoses, after surgery and/or through survivorship. The Cancer Exercie Specialist Institute <em>(CETI)</em> emphasises individualized programming, because we know that no two cancer patients are the same and their exercise program should be as indivudal as they are.
+											</p>
+										</div>
+									</div>
+								</div>
+								<div class="accordion">
+									<div class="accordion-item-title">
 										<h3>Can you write a weight loss diet for me?</h3>
 										<hr />
 										<div class="accordion-item-text hide">

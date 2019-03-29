@@ -26,7 +26,7 @@
 					<span class="icon major"><img class="logo" alt="Kinetic Spark Logo" src="images/kinetic-logo-lrg.png" /></span>
 					<h1>Personal Training Programs with Reba Wek-Lake</h1>
 					<p>Fitness is not a one-size-fits-all journey.
-						At Kinetic Spark Fitness,<br>fitness specialist Reba Wek-Lake can customize a personal training program that will help	you feel strong in your own body.<br> Whether you are a parent, a senior, fresh from orthopedic rehab, experiencing a cancer diagnoses, or have a medical condition,<br>Reba can help you reach your fitness goals &ndash; One session at a time.</p>
+						At Kinetic Spark Fitness,<br> fitness specialist Reba Wek-Lake can customize a personal training program that will help	you feel strong in your own body.<br> Whether you are a parent, a senior, fresh from orthopedic rehab, experiencing a cancer diagnoses, or have a medical condition,<br> Reba can help you reach your fitness goals &ndash; One session at a time.</p>
 					<ul class="actions special">
 						<li><a href="#three" class="button scrolly">Find Your Plan</a></li>
 					</ul>
