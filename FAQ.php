@@ -58,7 +58,7 @@
 										<hr />
 										<div class="accordion-item-text hide">
 											<p>
-												A cancer exercise specialist is uniquely qualified to work with cancer patients from diagnoses, after surgery and/or through survivorship. The Cancer Exercie Specialist Institute <em>(CETI)</em> emphasises individualized programming, because we know that no two cancer patients are the same and their exercise program should be as indivudal as they are.
+												A cancer exercise specialist is uniquely qualified to work with cancer patients from diagnoses, after surgery and/or through survivorship. The Cancer Exercise Specialist Institute <em>(CETI)</em> emphasises individualized programming because we know that no two cancer patients are the same, and their exercise program should be as indivudal as they are.
 											</p>
 										</div>
 									</div>
