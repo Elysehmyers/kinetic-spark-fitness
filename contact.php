@@ -4,11 +4,10 @@ $name = $_POST['name'];
 $email = $_POST['email'];
 $message = $_POST['message'];
 $formcontent=" From: $name \n Email: $email \n  Message: $message";
-$recipient = "adetavis@gmail.com";
+$recipient = "contact@elysemyers.com";
 $subject = "Contact Form";
 $mailheader = "From: $email \r\n";
 mail($recipient, $subject, $formcontent, $mailheader) or die("Error!");
-echo "Thank You!";
 ?>
 
 <!--
@@ -54,7 +53,7 @@ echo "Thank You!";
 						<div class="row gtr-150">
 							<div class="col-8 col-12-medium servicePageImg">
 								<section>
-									<form method="post" action="mailto:rebatrains@yahoo.com">
+									<form method="post" action="contact.php">
 										<div class="row gtr-uniform gtr-50">
 											<div class="col-6 col-12-xsmall">
 												<input type="text" placeholder="Name" />
@@ -85,7 +84,7 @@ echo "Thank You!";
 								<p>
 									Reba Wek-Lake, CSCS, MES, CES, PES, HKC, FAS
 									<br />Ph: 661-317-2497
-							
+
 								</p>
 							</div>
 						</div>
