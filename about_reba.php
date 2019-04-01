@@ -45,15 +45,17 @@
 									<h2>Reba Wek-Lake</h2>
 									<h3>CSCS, MES, CES, PES, HKC, FAS, Member CETI</h3>
 								</header>
+								<div>
+									<figure>
+										<img src="images/optimizedIMG/img94.jpg" alt="" />
+									</figure>
+								</div>
 								<p>
-									Reba is a medical exercise specialist and a strength and conditioning coach certified through the National Strength and Conditioning Association. She is a certified corrective exercise specialist (CES), sports performance enhancement specialist (PES), and a Precision Nutrition coach.
+									The media and the medical community wisely tell us that getting exercise is really important for our health and well-being – Especially as we get older. But what kind of exercise is safe for someone who has just been diagnosed with cancer? Or is undergoing chemo? What about someone who has just been released from physical therapy after having a rotator cuff repair, or a knee or hip replacement? And are we every too old to exercise? It’s hard to know where to turn for appropriate exercise plan in light of medical conditions. It’s even harder to know where to start when exercise is new. It can be scary and intimidating! The last thing you’d want is to get hurt trying to improve your health!
 								</p>
 								<p>
-									She is also certified to train hardcore Russian kettlebell technique, and she is certified in Sports Medicine suspension training on the TRX (Level 2). Reba has a passion for healthy eating, having focused her undergraduate and graduate studies in clinical nutrition. She has five adult children, four grand-children, and enjoys hiking and tennis.
+									Reba’s certifications in medical exercise, corrective exercise, cancer exercise and functional aging, as well as being a strength and conditioning coach, equip her to come alongside and help people with the questions that are holding them back. It’s time to not just “die older”, but enjoy LIVING longer. She understands that fitness and weight management are not always just about looking good in our clothes, nice as that might be. (Many of us aren’t necessarily aiming right now to become competitive bodybuilders or underwear models! That ship may have already sailed!) Rather, they are about moving throughout the day with stamina and confidence, and being able to participate in activities with friends and loved ones! It’s about continuing to LIVE and explore new possibilities as we age!
 								</p>
-							</div>
-							<div class="col-6 col-12-medium">
-								<img width="60%" src="images/optimizedIMG/img94.jpg" alt="" />
 							</div>
 						</div>
 						<hr />
@@ -61,38 +63,37 @@
 							<div class="col-12">
 								<h2 style="text-align: center;">Certifications</h2>
 							</div>
-							<div class="col-6 col-12-medium">
+							<div class="col-6 col-12-medium aboutRebaList">
 								<ul>
 									<li>
-										NASM certified corrective exercise and performance enhancement specialist.
+										NASM Certified Corrective Exercise and Performance Enhancement Specialist
 									</li>
 									<li>
-										NSCA certified strength and conditioning coach (CSCS)
+										NSCA Certified Strength &amp; Conditioning Coach (CSCS)
 									</li>
 									<li>
-										MES–Post-rehabilitation
+										Medical Exercise Specialist, Post-Rehab (MES)
 									</li>
 									<li>
-										Certified hardcore kettlebell instructor (HKC)
-									</li>
-								</ul>
-							</div>
-							<div class="col-6 col-12-medium aboutRebaList2">
-								<ul>
-									<li>
-										TRX certified trainer and sports medicine
+										Certified Hardcore Kettlebell Instructor (HKC)
 									</li>
 									<li>
-										Precision Nutrition coach
+										Certified Precision Nutrition Coach (PN)
 									</li>
 									<li>
-										Cornell–plant-based nutrition
+										Total Body Resistance &amp; Sports Med Trainer (TRX)
 									</li>
 									<li>
-										MELT
+										Cornell Plant-Based Nutrition Certificaion
 									</li>
 									<li>
-										Functional Aging specialist
+										Pain-Free Living Instructor (MELT)
+									</li>
+									<li>
+										Functional Aging specialist (FAS)
+									</li>
+									<li>
+										Cancer Exercise Training Specialist (Member CETI)
 									</li>
 								</ul>
 							</div>

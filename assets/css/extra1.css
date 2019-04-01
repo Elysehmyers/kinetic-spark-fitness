@@ -33,9 +33,40 @@
 }
 /*///////////////////////// About Reba Page ////////////////////////*/
 
+#oneAboutReba {
+  width: 100%;
+}
+
+#oneAboutReba figure{ /* photo of Reba floated left */
+  width: 100%;
+  float: left;
+}
+
+#oneAboutReba p { /*Reba bio wrapped around image */
+  width: 100%;
+}
+
 #oneAboutReba img {
-  display: block;
-  margin: 0 auto;
+  display: inline;
+  width: 100%;
+}
+
+
+/* About Reba Tab - makes image 50% on tablet/desktop*/
+@media only screen and (min-width: 400px) and  (max-width: 900px) {
+  #oneAboutReba figure {
+    width: 50%;
+    margin: 5px 25px 1px 0;
+  }
+
+}
+
+@media only screen and (min-width: 901px) {
+  #oneAboutReba figure {
+    width: 30%;
+    margin: 5px 25px 1px 0;
+  }
+
 }
 
 #oneAboutReba span {
@@ -47,16 +78,67 @@
   text-align: center;
 }
 
-.aboutRebaList2 {
+.aboutRebaList {
   display: flex;
+  flex-flow: row wrap;
   justify-content: center;
+  align-items: flex-start;
+  width: 100%;
+  margin: 10px 0 10px 0;
 }
 
-@media screen and (max-width: 980px) {
-  .aboutRebaList2 {
-    justify-content: flex-start;
+
+.aboutRebaList li {
+  width: 100%;
+}
+
+@media screen and (min-width: 550px) and (max-width: 767px) {
+  .aboutRebaList ul {
+    padding: 0;
+    display: flex;
+    flex-flow: row wrap;
+    margin: 10px 0 10px 8%;
+  }
+
+  .aboutRebaList li {
+    width: 41%;
+    padding: 0;
+    margin: 0 40px 0 0;
   }
 }
+
+
+@media screen and (min-width: 768px) {
+
+  .aboutRebaList ul {
+    max-width: 800px;
+    padding: 0;
+    display: flex;
+    flex-flow: row wrap;
+    margin-left: 30px;
+
+
+  }
+
+  .aboutRebaList li {
+    width: 45%;
+    max-width: 350px;
+    padding: 0;
+    margin: 3px 15px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .aboutRebaList ul {
+    max-width: 1000px;
+    margin: 0 0 0 150px;
+  }
+
+  .aboutRebaList li {
+
+  }
+}
+
 /*///////////////////////// Services Page ////////////////////////*/
 
 
