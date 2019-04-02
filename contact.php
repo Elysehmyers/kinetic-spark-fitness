@@ -73,20 +73,15 @@
 									</div>
 
 						<hr />
-						<div class="row gtr-150">
-							<div class="col-8 col-12-medium">
-								<div class="col-4 col-12-medium">
 									<div class="studio-location">
 										<h2 style="" >Studio Location</h2>
 										<p>
 											<strong>26254 Prima Way Santa Clarita, CA 91350</strong>
 										</p>
 									</div>
-								</div>
+
 								<figure id="map">
-								<iframe width="100%" height="100%" frameborder="0" style="border:0;" src="https://www.google.com/maps/embed/v1/place?q=26254%20Prima%20Way%20Santa%20Clarita%2C%20CA%2091350&key=AIzaSyA9WS7SeW7EJaFm7YmswntUvIeo6nWxyUI" allowfullscreen></iframe></figure>
-							</div>
-						</div>
+									<iframe width="100%" height="100%" frameborder="0" style="border:0;" src="https://www.google.com/maps/embed/v1/place?q=26254%20Prima%20Way%20Santa%20Clarita%2C%20CA%2091350&key=AIzaSyA9WS7SeW7EJaFm7YmswntUvIeo6nWxyUI" allowfullscreen></iframe></figure>
 				</section>
 
 		<!-- Four -->

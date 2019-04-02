@@ -2269,6 +2269,7 @@ input, select, textarea {
 	/* form */
 
 
+
 .form-container {
 	display: inline;
 	justify-content: space-between;
@@ -2299,6 +2300,14 @@ textarea {
 	width: 100%;
 }
 
+@media screen and (max-width: 475px) {
+	button[type="submit"],
+	button[type="reset"] {
+		width: 100%;
+		margin: 5px 0;
+	}
+}
+
 button[type="submit"] {
 	margin-right: 1%;
 	background: #555;
@@ -2311,8 +2320,9 @@ button[type="submit"] {
 		display:flex;
 		flex-flow: row nowrap;
 		justify-content: center;
-		width: 100%;
+		width: 90%;
 	}
+
 
 
 
@@ -2333,6 +2343,7 @@ button[type="submit"] {
 }
 
 
+
 /* map */
 
 #map {
@@ -2344,8 +2355,10 @@ iframe {
 	width: 100%;
 }
 
-.studio-location {
+.studio-location h2,
+.studio-location p {
 	text-align: center;
+	flex-basis: 100%;
 }
 
 
