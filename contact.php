@@ -1,14 +1,4 @@
 <!DOCTYPE HTML>
-<?php
-$name = $_POST['name'];
-$email = $_POST['email'];
-$message = $_POST['message'];
-$formcontent=" From: $name \n Email: $email \n  Message: $message";
-$recipient = "contact@elysemyers.com";
-$subject = "Contact Form";
-$mailheader = "From: $email \r\n";
-mail($recipient, $subject, $formcontent, $mailheader) or die("Error!");
-?>
 
 <!--
 	Photon by HTML5 UP
@@ -50,60 +40,53 @@ mail($recipient, $subject, $formcontent, $mailheader) or die("Error!");
 			<!-- One -->
 				<section id="oneOurCompany" class="main style1">
 					<div class="container">
-						<div class="row gtr-150">
-							<div class="col-8 col-12-medium servicePageImg">
-								<section>
-									<form method="post" action="contact.php">
-										<div class="row gtr-uniform gtr-50">
-											<div class="col-6 col-12-xsmall">
-												<input type="text" placeholder="Name" />
-											</div>
-											<div class="col-6 col-12-xsmall">
-												<input type="text" value="" placeholder="Email" />
-											</div>
-											<div class="col-12">
-												<textarea placeholder="Enter your message" rows="6"></textarea>
-											</div>
-											<div class="col-12">
-												<ul class="actions">
-													<li><input type="submit"  class="primary" /></li>
-													<li><input type="reset" value="Reset" /></li>
-												</ul>
-											</div>
-										</div>
-									</form>
-								</section>
-							</div>
-							<div class="col-4 col-12-medium">
-								<header class="">
-									<h2>Get in Touch</h2>
-								</header>
-								<p>
-									It’s time that you meet a stronger version of yourself. Contact Kinetic Spark Fitness for personal training that will help you meet your fitness goals.
-								</p>
-								<p>
-									Reba Wek-Lake, CSCS, MES, CES, PES, HKC, FAS
-									<br />Ph: 661-317-2497
+								<section class="formspring">
+                  <form method="POST" action="https://formspree.io/contact@elysemyers.com">
+                    <div class="row gtr-uniform gtr-50">
+                      <div class="col-6 col-12-xsmall">
+                        <input type="name" name="name" placeholder="Name" required>
+                      </div>
+                      <div class="col-6 col-12-xsmall">
+                        <input type="email" name="email" placeholder="E-mail" required>
+                      </div>
+                      <div class="col-12">
+                        <textarea placeholder="Enter your message" rows="6"></textarea>
+                      </div>
+                      <div class="col-12">
+                        <button type="submit">Submit</button>
+                        <button type="reset" action="reset">Reset</button>
+                      </div>
+                  </form>
+                </div>
+							</section>
+              <div id="get-in-touch">
+  								<header class="get-in-touch-1">
+  									<h2>Get in Touch</h2>
+  								</header>
+  								<p class="get-in-touch-2">
+  									It’s time that you meet a stronger version of yourself. Contact Kinetic Spark Fitness for personal training that will help you meet your fitness goals.
+  								</p>
+  								<p class="get-in-touch-3">
+  									Reba Wek-Lake, CSCS, MES, CES, PES, HKC, FAS
+  									<br />Ph: 661-317-2497
 
-								</p>
+  								</p>
 							</div>
 						</div>
 						<hr />
+            <div class="col-4 col-12-medium">
+              <div class="studio-location">
+                <h2>Studio Location</h2>
+                <p><strong>26254 Prima Way, Santa Clarita, CA 91350</strong></p>
+              </div>
+            </div>
 						<div class="row gtr-150">
 							<div class="col-8 col-12-medium">
-								<iframe width="100%" height="100%" frameborder="0" style="border:0;" src="https://www.google.com/maps/embed/v1/place?q=26254%20Prima%20Way%20Santa%20Clarita%2C%20CA%2091350&key=AIzaSyA9WS7SeW7EJaFm7YmswntUvIeo6nWxyUI" allowfullscreen></iframe>
-							</div>
-							<div class="col-4 col-12-medium">
-								<header class="">
-									<h2 style="" >Studio Location</h2>
-									<p>
-										26254 Prima Way
-										<br />Santa Clarita, CA 91350
-									</p>
-								</header>
+                <figure id="map">
+  								<iframe width="100%" height="100%" frameborder="0" style="border:0;" src="https://www.google.com/maps/embed/v1/place?q=26254%20Prima%20Way%20Santa%20Clarita%2C%20CA%2091350&key=AIzaSyA9WS7SeW7EJaFm7YmswntUvIeo6nWxyUI" allowfullscreen></iframe>
+                </figure>
 							</div>
 						</div>
-					</div>
 				</section>
 
 		<!-- Four -->
@@ -112,6 +95,7 @@ mail($recipient, $subject, $formcontent, $mailheader) or die("Error!");
 
 				</div>
 			</section>
+
 
 		<!-- Footer -->
 			<section id="footer">
