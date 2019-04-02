@@ -61,7 +61,7 @@
 
 }
 
-@media only screen and (min-width: 901px) {
+@media only screen and (min-width: 901px) and (max-width: 1800px){
   #oneAboutReba figure {
     width: 30%;
     margin: 5px 25px 1px 0;
@@ -204,7 +204,6 @@
 #contentPage  h2 {
   color: #91c43d;
   margin-bottom: 0;
-  text-align: center;
 }
 
 #contentPage h3 {

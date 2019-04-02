@@ -24,67 +24,67 @@
 
 		<!-- Two -->
 			<section style="background-image: url('images/contactBG.jpeg');" id="twoOurCompany" class="main styleContentPage">
-				<div class="container">
-					<div class="row gtr-150">
-						<div class="col-12">
-							<header class="">
 								<h1 style="text-align: center;">Contact Kinetic Spark Fitness
 									<br /> in Santa Clarita, California</h1>
 								<img class="heroIcon" src="images/favicon.png" />
 							</header>
-						</div>
-					</div>
-				</div>
-			</section>
+						</section>
 
 			<!-- One -->
-				<section id="oneOurCompany" class="main style1">
+				<!-- <section id="oneOurCompany" class="main style1">
 					<div class="container">
-								<section class="formspring">
-                  <form method="POST" action="https://formspree.io/contact@elysemyers.com">
-                    <div class="row gtr-uniform gtr-50">
-                      <div class="col-6 col-12-xsmall">
-                        <input type="name" name="name" placeholder="Name" required>
-                      </div>
-                      <div class="col-6 col-12-xsmall">
-                        <input type="email" name="email" placeholder="E-mail" required>
-                      </div>
-                      <div class="col-12">
-                        <textarea placeholder="Enter your message" rows="6"></textarea>
-                      </div>
-                      <div class="col-12">
-                        <button type="submit">Submit</button>
-                        <button type="reset" action="reset">Reset</button>
-                      </div>
-                  </form>
-                </div>
-							</section>
-              <div id="get-in-touch">
-  								<header class="get-in-touch-1">
-  									<h2>Get in Touch</h2>
-  								</header>
-  								<p class="get-in-touch-2">
-  									It’s time that you meet a stronger version of yourself. Contact Kinetic Spark Fitness for personal training that will help you meet your fitness goals.
-  								</p>
-  								<p class="get-in-touch-3">
-  									Reba Wek-Lake, CSCS, MES, CES, PES, HKC, FAS
-  									<br />Ph: 661-317-2497
+						<div class="row gtr-150">
+							<div class="col-8 col-12-medium servicePageImg">
+								<section> -->
+									<section id="oneOurCompany" class="main style1">
+									  <div class="form-container">
+									        <section class="formspring">
+									          <form method="POST" action="https://formspree.io/reba@kineticsparkfitness.com">
 
-  								</p>
-							</div>
-						</div>
+																	<input type="text" name="name" placeholder="Name" required>
+
+									                <input type="email" name="email" placeholder="E-mail" required>
+
+									                <textarea placeholder="Enter your message" rows="6"></textarea>
+
+									              	<div class="buttons">
+										                <button type="submit">Submit</button>
+										                <button type="reset" action="reset">Reset
+																		</button>
+									              	</div>
+									          </form>
+
+									     </section>
+									    <section id="get-in-touch">
+									      <div class="get-in-touch-1">
+									            <h2>Get in Touch</h2>
+									      </div>
+												<div class="get-in-touch-2">
+									         <p>
+								            It’s time that you meet a stronger version of yourself. Contact Kinetic Spark Fitness for personal training that will help you meet your fitness goals.
+									         </p>
+												</div>
+												<div class="get-in-touch-3">
+									         <p>
+									          	Reba Wek-Lake, CSCS, MES, CES, PES, HKC, FAS
+									            <br />Ph: 661-317-2497 </p>
+									      </div>
+											</section>
+									</div>
+
 						<hr />
-            <div class="col-4 col-12-medium">
-              <div class="studio-location">
-                <h2>Studio Location</h2>
-                <p><strong>26254 Prima Way, Santa Clarita, CA 91350</strong></p>
-              </div>
-            </div>
 						<div class="row gtr-150">
 							<div class="col-8 col-12-medium">
-                <figure id="map">
-  								<iframe width="100%" height="100%" frameborder="0" style="border:0;" src="https://www.google.com/maps/embed/v1/place?q=26254%20Prima%20Way%20Santa%20Clarita%2C%20CA%2091350&key=AIzaSyA9WS7SeW7EJaFm7YmswntUvIeo6nWxyUI" allowfullscreen></iframe>
-                </figure>
+								<div class="col-4 col-12-medium">
+									<div class="studio-location">
+										<h2 style="" >Studio Location</h2>
+										<p>
+											<strong>26254 Prima Way Santa Clarita, CA 91350</strong>
+										</p>
+									</div>
+								</div>
+								<figure id="map">
+								<iframe width="100%" height="100%" frameborder="0" style="border:0;" src="https://www.google.com/maps/embed/v1/place?q=26254%20Prima%20Way%20Santa%20Clarita%2C%20CA%2091350&key=AIzaSyA9WS7SeW7EJaFm7YmswntUvIeo6nWxyUI" allowfullscreen></iframe></figure>
 							</div>
 						</div>
 				</section>
@@ -95,7 +95,6 @@
 
 				</div>
 			</section>
-
 
 		<!-- Footer -->
 			<section id="footer">

@@ -40,7 +40,7 @@
 				<section id="twoGallery" class="main style1">
 					<div class="container">
 						<section>
-							<div class="box alt">
+							<div class="box-alt">
 								<div class="row gtr-uniform gtr-50">
 									<div class="col-6 col-12-medium"><span class="image fit"><img src="images/optimizedIMG/img88.jpg" alt="" /></span></div>
 									<div class="col-3 col-12-medium"><span class="image fit"><img src="images/optimizedIMG/img6.jpg" alt=""  /></span></div>
