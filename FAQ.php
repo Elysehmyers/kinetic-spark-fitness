@@ -112,7 +112,7 @@
 							</header>
 							<p>It’s time to reveal a stronger, fitter, leaner you. Join Kinetic Spark Fitness on your journey to lifelong fitness. </p>
 							<ul class="actions special">
-								<li><a href="contact.html" class="button wide primary">Sign Up Now</a></li>
+								<li><a href="contact.php" class="button wide primary">Sign Up Now</a></li>
 							</ul>
 				</div>
 			</section>

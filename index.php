@@ -136,7 +136,7 @@
 							</header>
 							<p>Start feeling healthier this week. Give Reba a call for a complimentary movement screen and consultation. </p>
 							<ul class="actions special">
-								<li><a href="contact.html" class="button wide primary">Get Fit</a></li>
+								<li><a href="contact.php" class="button wide primary">Get Fit</a></li>
 							</ul>
 				</div>
 			</section>

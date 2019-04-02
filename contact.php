@@ -45,7 +45,7 @@
 
 									                <input type="email" name="email" placeholder="E-mail" required>
 
-									                <textarea placeholder="Enter your message" rows="6"></textarea>
+									                <textarea placeholder="What are you interested in learning more about?" rows="6"></textarea>
 
 									              	<div class="buttons">
 										                <button type="submit">Submit</button>

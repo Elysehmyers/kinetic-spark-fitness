@@ -54,7 +54,13 @@
 								<p>
 									During private personal training sessions, you’ll receive one-on-one attention to help you reach your goals. Reba will design a program to fit your body and your lifestyle.
 								</p>
+
+								<!-- Private Training sign up now button -->
+									<ul class="actions special">
+										<li><a href="contact.php" class="button wide primary">Sign Up Now</a></li>
+									</ul>
 							</div>
+
 							<div class="col-4 col-12-medium servicePageImg">
 								<img width="100%" src="images/optimizedIMG/img58.jpg" alt="" />
 							</div>
@@ -71,10 +77,17 @@
 								<p>
 									Grab your workout best friend and get fit together! You will each receive individualized programming, but with the added motivation of exercising with a partner.
 								</p>
+
+								<!-- Semi-Private Training sign up now button -->
+									<ul class="actions special">
+										<li><a href="contact.php" class="button wide primary">Sign Up Now</a></li>
+									</ul>
+
 							</div>
 							<div class="col-4 col-12-medium servicePageImg">
 								<img width="100%" src="images/optimizedIMG/img42.jpg" alt="" />
 							</div>
+
 						</div>
 						<hr />
             <div class="row gtr-150">
@@ -88,6 +101,11 @@
 								<p>
 									FitLife Groups are limited to three to four members. That way, Reba can help you modify workouts to your individual needs and ensure that you perform the exercises safely and effectively.
 								</p>
+
+								<!-- FitLife Group Training sign up now button -->
+									<ul class="actions special">
+										<li><a href="contact.php" class="button wide primary">Sign Up Now</a></li>
+									</ul>
 							</div>
 							<div class="col-4 col-12-medium servicePageImg">
 								<img width="100%" src="images/optimizedIMG/img10.jpg" alt="" />
@@ -105,6 +123,10 @@
 								<p>
 									FitBlast small groups are limited to three to four members, so Reba can monitor each individual and ensure that they perform the exercises safely and effectively.
 								</p>
+								<!-- FitBlast Group Training sign up now button -->
+									<ul class="actions special">
+										<li><a href="contact.php" class="button wide primary">Sign Up Now</a></li>
+									</ul>
 							</div>
 							<div class="col-4 col-12-medium servicePageImg">
 								<img width="100%" src="images/optimizedIMG/img30.jpg" alt="" />
@@ -121,7 +143,7 @@
 							</header>
 							<p>Which training session will best suit you? Give us a call to learn more.</p>
 							<ul class="actions special">
-								<li><a href="contact.html" class="button wide primary">See Results</a></li>
+								<li><a href="contact.php" class="button wide primary">See Results</a></li>
 							</ul>
 				</div>
 			</section>

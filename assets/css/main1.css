@@ -2268,13 +2268,12 @@ input, select, textarea {
 
 	/* form */
 
-
-
 .form-container {
 	display: inline;
 	justify-content: space-between;
 	align-items: flex-start;
 	flex-flow: row nowrap;
+
 }
 
 input[type="text"],
@@ -2330,14 +2329,15 @@ button[type="submit"] {
 		width: 100%;
 		min-width: 350px;
 		max-width: 1000px;
-		margin-left: 15%;
+		margin-left: 30%;
 
 	}
 
 
 	#get-in-touch {
-		max-width: 600px;
-		margin-left: 15%;
+		min-width: 400px;
+		max-width: 500px;
+		margin-left: 20%;
 
 	}
 }
